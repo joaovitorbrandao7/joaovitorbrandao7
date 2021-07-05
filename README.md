@@ -4,7 +4,6 @@
 
 + Computer science student 🖥️
 + I'm currently studing to be a fullstack developer 📚
-+ I'm looking to collaborate on community📡
 
 <div>
 
