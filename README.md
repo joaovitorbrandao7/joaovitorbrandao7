@@ -3,7 +3,7 @@
 ### About: 
 
 + Computer science student 🖥️
-+ I'm currently studing to be a fullstack developer 📚
++ Fullstack developer 📚
 
 <div>
 
