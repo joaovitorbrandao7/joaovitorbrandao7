@@ -3,7 +3,6 @@
 ### About: 
 
 + Computer science student 🖥️
-+ Fullstack developer 📚
 
 <div>
 
