@@ -1,9 +1,5 @@
 ## Hey 👋, I'm João Vitor Brandão!
 
-### About: 
-
-+ Computer science student 🖥️
-
 <div>
 
 ### GitHub Stats and Most Used Languages:
