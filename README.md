@@ -23,6 +23,10 @@
        <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
       <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
     <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.12.0/devicon.min.css" height="40">
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.12.0/devicon.min.css" height="40">
+
+   
     
 </p>
 
