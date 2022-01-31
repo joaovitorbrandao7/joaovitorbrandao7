@@ -20,8 +20,8 @@
  <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
  <img href="https://angular.io" target="_blank"> 
  <img src="https://avatars.githubusercontent.com/u/139426?s=200&v=4" alt="angular" width="40" height="40"/> </a>
-   
-    <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40" height="40" />
+
   
 
 
